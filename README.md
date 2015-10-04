@@ -20,4 +20,10 @@
 $ git clone https://github.com/JosiahSiegel/rails-centos7-vm.git
 $ cd rails-centos7-vm
 $ vagrant up
+$ vagrant ssh
+```
+
+Access shared folder within VM
+```
+cd /vagrant
 ```
